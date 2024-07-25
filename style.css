@@ -234,7 +234,7 @@ section .title::after{
     border-radius: 100px;
 }
 .about .about-content .right{
-    width: 60%;
+    width: 50%;
 }
 .about .about-content .right .text{
     font-size: 25px;
